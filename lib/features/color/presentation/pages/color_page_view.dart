@@ -1,5 +1,5 @@
 import 'package:color_generator_app/core/constants/constant.dart';
-import 'package:color_generator_app/features/color/presentation/cubit/cubit/color_cubit.dart';
+import 'package:color_generator_app/features/color/presentation/cubit/color_cubit.dart';
 import 'package:color_generator_app/features/quote/presentation/cubit/quote_cubit.dart';
 import 'package:color_generator_app/features/quote/presentation/widgets/quote_block.dart';
 import 'package:color_generator_app/injection.dart';

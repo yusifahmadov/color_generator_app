@@ -2,7 +2,7 @@ import 'package:color_generator_app/features/color/data/datasources/color_local_
 import 'package:color_generator_app/features/color/data/repositories/color_repository_impl.dart';
 import 'package:color_generator_app/features/color/domain/repositories/color_repository.dart';
 import 'package:color_generator_app/features/color/domain/usecases/get_random_color.dart';
-import 'package:color_generator_app/features/color/presentation/cubit/cubit/color_cubit.dart';
+import 'package:color_generator_app/features/color/presentation/cubit/color_cubit.dart';
 import 'package:color_generator_app/features/quote/data/datasources/quote_remote_data_source.dart';
 import 'package:color_generator_app/features/quote/data/repositories/quote_repository_impl.dart';
 import 'package:color_generator_app/features/quote/domain/repositories/quote_repository.dart';
